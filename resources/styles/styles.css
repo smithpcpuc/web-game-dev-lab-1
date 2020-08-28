@@ -1,0 +1,22 @@
+*{ box-sizing: border-box; }
+header, main, nav, footer, figure, figcaption, aside, section, article { display: block; }
+
+body { background-color: #FFFFFF;
+  color: #666666;
+font-family: Arial, Helvetica, sans-serif;
+}
+header { background-color: #00B386;
+  color: #FFFFFF;
+  text-align: center;
+  height: 175px;
+  padding-top: 30px;
+  padding-left: 3em;}
+
+
+h1 {margin-bottom: 0;
+  font-family: Georgia, "Times New Roman", serif;
+} 
+
+h2 { color: #0355034D;
+  font-family: Georgia, "Times New Roman", serif;
+}
